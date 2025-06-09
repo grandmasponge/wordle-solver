@@ -6,3 +6,8 @@
 really simple program that helps you solve wordle because its a relativley simple problem 
 showing that any problem that has rules and steps can be over-engineerd or just be programmed to 
 be easier.
+
+
+give it ago right now at: https://www.nytimes.com/games/wordle/index.html
+
+## have fun !
